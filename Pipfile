@@ -8,6 +8,7 @@ jupyter = "*"
 numpy = "*"
 pandas = "*"
 seaborn = "*"
+sympy = "*"
 
 [dev-packages]
 
